@@ -1,4 +1,4 @@
-Expper
+Expper An Amazing Project
 =====
 
 > Explore the Internet and Share Something Useful.
